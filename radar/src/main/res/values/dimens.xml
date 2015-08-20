@@ -1,0 +1,4 @@
+<resources>
+    <dimen name="radar_view_width">300dp</dimen>
+    <dimen name="radar_view_height">300dp</dimen>
+</resources>

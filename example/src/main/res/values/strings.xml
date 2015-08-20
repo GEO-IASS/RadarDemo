@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="radar_description_first">发起人能力</string>
+    <string name="radar_description_second">商铺选址</string>
+    <string name="radar_description_third">B格指数</string>
+    <string name="radar_description_four">品牌实力</string>
+    <string name="radar_description_five">所属行业</string>
+</resources>

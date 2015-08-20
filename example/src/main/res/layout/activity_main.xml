@@ -1,0 +1,63 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <com.wsl.library.radar.RadarView
+        android:id="@+id/rv3"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="8dp"
+        android:background="#ffffffff"
+        app:firstText="@string/radar_description_first"
+        app:secondText="@string/radar_description_second"
+        app:thirdText="@string/radar_description_third"
+        app:fourText="@string/radar_description_four"
+        app:fiveText="@string/radar_description_five"
+        app:firstDrawable="@drawable/ic_shape_01"
+        app:secondDrawable="@drawable/ic_shape_02"
+        app:thirdDrawable="@drawable/ic_shape_03"
+        app:fourDrawable="@drawable/ic_shape_04"
+        app:fiveDrawable="@drawable/ic_shape_05"
+        />
+
+    <SeekBar
+        android:id="@+id/number1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        />
+
+    <SeekBar
+        android:id="@+id/number2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        />
+
+    <SeekBar
+        android:id="@+id/number3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        />
+
+    <SeekBar
+        android:id="@+id/number4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        />
+
+    <SeekBar
+        android:id="@+id/number5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        />
+
+</LinearLayout>

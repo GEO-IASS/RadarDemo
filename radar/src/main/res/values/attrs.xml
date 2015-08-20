@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="RadarView">
+
+        <attr name="firstText" format="string"/>
+        <attr name="secondText" format="string"/>
+        <attr name="thirdText" format="string"/>
+        <attr name="fourText" format="string"/>
+        <attr name="fiveText" format="string"/>
+
+        <attr name="firstDrawable" format="reference"/>
+        <attr name="secondDrawable" format="reference"/>
+        <attr name="thirdDrawable" format="reference"/>
+        <attr name="fourDrawable" format="reference"/>
+        <attr name="fiveDrawable" format="reference"/>
+
+    </declare-styleable>
+
+</resources>
