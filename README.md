@@ -1,5 +1,7 @@
 # RadarDemo
 Custom view display a image like radar
+# Version 1.0.0
+![image](https://github.com/doubleDragon/RadarDemo/raw/master/screenshots/radar2.png)
 License
 ============
 
@@ -17,5 +19,3 @@ License
         See the License for the specific language governing permissions and
         limitations under the License.
 
-![image](https://github.com/doubleDragon/RadarDemo/raw/master/screenshots/radar.png)
-![image](https://github.com/doubleDragon/RadarDemo/raw/master/screenshots/radar2.png)
